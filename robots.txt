@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kutuhali.sanchaya.net/sitemap.xml
